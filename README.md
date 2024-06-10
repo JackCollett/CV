@@ -6,9 +6,9 @@ An ambitious software engineer, recently graduated from the Makers Software Deve
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **The Neurons**               | A webapp to track cognitive and emotional energy levels| MongoDB, Express.js, React, Node.js, Vitest, Jest |
-| **MakersBnb**                 | A AirBnb styled webapp that allows users to book rooms for the night | Python, HTML, CSS, Pytest, PostgreSQL, Playwright |
-| **Acebook** | A Facebook styled webapp that allows users to Log in, create posts, like and comment | MongoDB, Express.js, React, Node.js, Jest             |
+| **[The Neurons](https://github.com/tomgame984/The-Neurons)**               | A webapp to track cognitive and emotional energy levels| MongoDB, Express.js, React, Node.js, Vitest, Jest |
+| **[MakersBnb](https://github.com/tahmidachoudhury/makersbnb-python-tangerine)**                 | An AirBnb styled webapp that allows users to book rooms for the night | Python, HTML, CSS, Pytest, PostgreSQL, Playwright |
+| **[Acebook](https://github.com/JackCollett/Acebook)** | A Facebook styled webapp that allows users to Log in, create posts, like and comment | MongoDB, Express.js, React, Node.js, Jest             |
 
 ## Work Experience
 
