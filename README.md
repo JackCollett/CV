@@ -12,8 +12,8 @@ An ambitious software engineer, recently graduated from the Makers Software Deve
 
 ## Work Experience
 
-**Mccann Worldgroup** (Oct 2021 - Mar 2022)\ 
-Bristol, UK\
+**Mccann Worldgroup** (Oct 2021 - Mar 2022) \ 
+Bristol, UK \
 _Digital Media Intern_\
 
 - Executed multifaceted tasks across diverse digital media campaigns including Search Engine Optimization (SEO), Pay-Per-Click (PPC), Social media and Content Marketing.
@@ -25,8 +25,8 @@ _Digital Media Intern_\
 
 
 **New College** (Nov 2017 - Apr 2020)  \
-Oxford, UK\
-_Waiter_\
+Oxford, UK \
+_Waiter_ \
 
 - Constantly interacting with customers and the waitering team was vital to my success in this role, it helped me build confidence in my communication while deliverying high customer service.
 - Hadling customer complaints and requests allowed me to practice my problem-solving skills while under pressure in a fast-paced environment.
