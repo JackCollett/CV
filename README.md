@@ -1,6 +1,6 @@
 **Jack Collett**
 
-An ambitious software engineer, recently graduated from the Makers Software Development Bootcamp. Being a life-long tech ethusiast with a business-oriented background has led me to this exciting avenue. Future advancements and developments in technoogy excites me to keep expolring new ideas and envisige new possibilties.  
+An ambitious software engineer, recently graduated from the Makers Software Development Bootcamp. Being a life-long tech ethusiast with a business-oriented background has led me to this exciting avenue. Future advancements and developments in technology excites me to keep expolring new ideas and envisige new possibilties.  
 
 ## Projects
 
@@ -12,15 +12,25 @@ An ambitious software engineer, recently graduated from the Makers Software Deve
 
 ## Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Mccann Worldgroup** (Oct 2021 - Mar 2022) 
+Bristol, UK 
+_Digital Media Intern_
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
+- Executed multifaceted tasks across diverse digital media campaigns including Search Engine Optimization (SEO), Pay-Per-Click (PPC), Social media and Content Marketing.
+- Liaised with industry experts and clientele to help deliver digital media reportings by analysing campaign performances (Conversion rates/ Return on ad spend).
+- Adapted quickly to new platforms and technologies such as Search Ads 360, Facebook Ads manager and Google ads. 
+- Obtained valuable professional growth and technical skills such as Excel and Google certificates on ads and analytics. Learned through team training and online platforms, mainly Skillshop and Inrehersal.
+- Explored marketing strategies with an interest in automating ad bidding through machine learning.
+- Conducted weekly market research to highlight current developments and trends.
 
-**Company Name** (start-date to end-date)  
-_Your job title_
 
-- Any experience relevent to software development
+**New College** (Nov 2017 - Apr 2020)  
+Oxford, UK
+_Waiter_
+
+- Constantly interacting with customers and the waitering team was vital to my success in this role, it helped me build confidence in my communication while deliverying high customer service.
+- Hadling customer complaints and requests allowed me to practice my problem-solving skills while under pressure in a fast-paced environment.
+- Following the food service procedure and dealing with special dietry requirements helped me build upon my time management and attention to detail. 
 
 ## Skills
 
