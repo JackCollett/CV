@@ -12,7 +12,7 @@ An ambitious software engineer, recently graduated from the Makers Software Deve
 
 ## Work Experience
 
-**Mccann Worldgroup** (Oct 2021 - Mar 2022)\ 
+**Mccann Worldgroup** (Oct 2021 - Mar 2022)\
 Bristol, UK\
 _Digital Media Intern_
 
