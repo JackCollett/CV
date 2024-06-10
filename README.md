@@ -1,4 +1,4 @@
-Jack Collett
+**Jack Collett**
 
 An ambitious software engineer, recently graduated from the Makers Software Development Bootcamp. Being a life-long tech ethusiast with a business-oriented background has led me to this exciting avenue. Future advancements and developments in technoogy excites me to keep expolring new ideas and envisige new possibilties.  
 
@@ -6,8 +6,9 @@ An ambitious software engineer, recently graduated from the Makers Software Deve
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| **The Neurons**               | A webapp to track cognitive and emotional energy levels| MongoDB, Express.js, React, Node.js, Vitest, Jest |
+| **MakersBnb**                 | A AirBnb styled webapp that allows users to book rooms for the night | Python, HTML, CSS, Pytest, PostgreSQL, Playwright |
+| **Acebook** | A Facebook styled webapp that allows users to Log in, create posts, like and comment | MongoDB, Express.js, React, Node.js, Jest             |
 
 ## Work Experience
 
