@@ -1,4 +1,4 @@
-**Jack Collett**
+### **Jack Collett**
 
 An ambitious software engineer, recently graduated from the Makers Software Development Bootcamp. Being a life-long tech ethusiast with a business-oriented background has led me to this exciting avenue. Future advancements and developments in technology excites me to keep expolring new ideas and envisige new possibilties.  
 
@@ -53,6 +53,17 @@ I honed my communication skills while completing my thesis at university, which 
 
 #### Another skill
 
+-Teamwork / Communication
+- multipl agile team environment using different tech stacks/ stength and weaknesses 
+- business environments effective communications link to agile practices/ software teams/ pair programming 
+
+-Numeracy Skills
+favourite subject at school, enjoy working with mathmatics and algorithms. learned basic arithmitic in multiple programming languages, and applied to projects by implementing clean logic backed by test driven developement.
+
+- Creativity / Innovation
+design student, took pride in building personal computer, learned importance of clear project user stories?? user interface design, user experiecne, enjoyed react components, ... resulting in ... 
+- Organisation / Time Management 
+- Prior to Makers Academy, I started to self study and gain an overview of computer science. One of the main resources was an online course (CS50 - HarvardX's Computer Science), this was was a 10 week self led course meaning I managed my own learnings on my own time. Timeslotting studying/ watching lectures and other independent researching has enabled me to learn the fundamental theories and algorithms setting me up for success. 
 
 ## Education
 
