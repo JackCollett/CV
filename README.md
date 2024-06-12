@@ -34,58 +34,35 @@ _Waiter_
 
 ## Skills
 
-Your previous experience is really important. You will need to make it really clear to someone who has not worked in your field before exactly how your experience will be useful in software development.
+-*Teamwork / Communication*
+- I have been able to hone my communication skills from a variety of business settings and have always cherished collaborating within team environments. During my digital media internship, I joined a well organised and close-knit team where I built relationships with collegues and clients. Maintaining these relationships was key for me to gain real-world insight while learning the foundations of the industy. 
 
-Consider skills relevent to software development. Then consider projects you've worked on before Makers that you feel proud of and/or you think are relevent to technology. Good examples clearly explain the impact you've had. 
+-*Numeracy Skills*
+- Mathmatics has always been one of my strengths and I enjoy dealing with formulas and algorithms. Relying on this meticulous trait had helped me in a number of business settings and been instrumental in starting my software engineering career.  
 
+- *Creativity / Innovation*
+- My creative mindset comes from a strong interest in product design, I love to think outside the box and come up with creative solutions to problems. My time at Makers gave me ample opportunity to practice an effective problem-solving cycle through debugging and other escalation processes.
 
-Here's an example
-
-#### Communication
-I honed my communication skills while completing my thesis at university, which involved writing and defending a dissertation to a board of professors and Ph.D. candidates. I further developed these skills when I was working in a digital marketing agency where I presented quarterly business reviews to C-level stakeholders. In doing so, I synthesised complex technical information into a digestible but comprehensive story for the different levels of knowledge in the room. My communication skills have also often come in handy while training to be a developer. For example, I recently ran a session for my mentees, who have only been coding for a few weeks, on how to use mocks to improve unit test isolation. I received feedback that the session was well run and helped them understand this potentially confusing topic.
-
-#### Another skill
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
-
-#### Another skill
-
--Teamwork / Communication
-- multipl agile team environment using different tech stacks/ stength and weaknesses 
-- business environments effective communications link to agile practices/ software teams/ pair programming 
-
--Numeracy Skills
-favourite subject at school, enjoy working with mathmatics and algorithms. learned basic arithmitic in multiple programming languages, and applied to projects by implementing clean logic backed by test driven developement.
-
-- Creativity / Innovation
-design student, took pride in building personal computer, learned importance of clear project user stories?? user interface design, user experiecne, enjoyed react components, ... resulting in ... 
-- Organisation / Time Management 
-- Prior to Makers Academy, I started to self study and gain an overview of computer science. One of the main resources was an online course (CS50 - HarvardX's Computer Science), this was was a 10 week self led course meaning I managed my own learnings on my own time. Timeslotting studying/ watching lectures and other independent researching has enabled me to learn the fundamental theories and algorithms setting me up for success. 
+- *Organisation / Time Management *
+- Prior to Makers Academy, I started to self study and gain an overview of computer science. One of the main resources was an online course (CS50 - HarvardX's Computer Science), this was was a 10 week self led course meaning I managed my own learnings on my own time. Timeslotting my studying by watching lectures and other independent researching has enabled me to learn the fundamental theories and algorithms setting me up for success. 
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+#### Makers Academy (January 2024  – May 2024)
+London, UK 			        		       		       
+Junior Software Engineer 
 
-#### Your University / College (start_date to end_date)
+During my Software development bootcamp at Makers, I learned to build frontend web apps and full-stack, using object-oriented design, test-driven development, Agile methodologies, and pair programming.
+I have become proficient in multiple programming languages such as Python, JavaScript and Swift. I have been given ample experience in developing production code within various teams using high-quality processes.
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+#### Oxford Brookes University (Graduated May 2020)
+Bachelor of Arts in Business and Management
+Relevant Coursework: Applied Financial Skills, Digital Technology and Maths for Business, Management Information Systems 
 
-#### Any other qualifications
 
-That in some arguable way make you a better software developer or well-rounded person
+#### HarvardX - CS50’s Introduction to Computer Science
+Comprehensive introduction to Computer Science, covering topics such as algorithms, data structures, programming languages such as C, Python, and SQL.
+
 
 ## Hobbies
-
-Any cool stuff that makes you a super part of a software development team
+Travelling(Australia/New Zealand 2023), Technology(Built Gaming PC in 2020), Martial Arts and Cinema. Hobbies are mainly physical sports which include 5v5 Football, Golf, Tennis and Jiu-Jitsu.
