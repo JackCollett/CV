@@ -43,7 +43,7 @@ _Waiter_
 *Creativity / Innovation*
 - My creative mindset comes from a strong interest in product design, I love to think outside the box and come up with creative solutions to problems. My time at Makers gave me ample opportunity to practice an effective problem-solving cycle through debugging and other escalation processes.
 
-*Organisation / Time Management *
+*Organisation / Time Management*
 - Prior to Makers Academy, I started to self study and gain an overview of computer science. One of the main resources was an online course (CS50 - HarvardX's Computer Science), this was was a 10 week self led course meaning I managed my own learnings on my own time. Timeslotting my studying by watching lectures and other independent researching has enabled me to learn the fundamental theories and algorithms setting me up for success. 
 
 ## Education
