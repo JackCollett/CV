@@ -34,16 +34,16 @@ _Waiter_
 
 ## Skills
 
--*Teamwork / Communication*
+*Teamwork / Communication*
 - I have been able to hone my communication skills from a variety of business settings and have always cherished collaborating within team environments. During my digital media internship, I joined a well organised and close-knit team where I built relationships with collegues and clients. Maintaining these relationships was key for me to gain real-world insight while learning the foundations of the industy. 
 
--*Numeracy Skills*
+*Numeracy Skills*
 - Mathmatics has always been one of my strengths and I enjoy dealing with formulas and algorithms. Relying on this meticulous trait had helped me in a number of business settings and been instrumental in starting my software engineering career.  
 
-- *Creativity / Innovation*
+*Creativity / Innovation*
 - My creative mindset comes from a strong interest in product design, I love to think outside the box and come up with creative solutions to problems. My time at Makers gave me ample opportunity to practice an effective problem-solving cycle through debugging and other escalation processes.
 
-- *Organisation / Time Management *
+*Organisation / Time Management *
 - Prior to Makers Academy, I started to self study and gain an overview of computer science. One of the main resources was an online course (CS50 - HarvardX's Computer Science), this was was a 10 week self led course meaning I managed my own learnings on my own time. Timeslotting my studying by watching lectures and other independent researching has enabled me to learn the fundamental theories and algorithms setting me up for success. 
 
 ## Education
