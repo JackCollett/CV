@@ -1,6 +1,6 @@
 ### **Jack Collett**
 
-An ambitious software engineer, recently graduated from the Makers Software Development Bootcamp. Being a life-long tech ethusiast with a business-oriented background has led me to this exciting avenue. Future advancements and developments in technology excites me to keep expolring new ideas and envisige new possibilties.  
+An ambitious software engineer, recently graduated from the Makers Software Development Bootcamp. Being a life-long tech ethusiast with a business-oriented background has led me to this exciting avenue. Future advancements and developments in technology excites me to keep exploring new ideas and envisige new possibilties.  
 
 ## Projects
 
