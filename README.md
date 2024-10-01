@@ -7,9 +7,9 @@
 [<img src="./icons/github.svg" title="GitHub" height="24" align="top">&nbsp;GitHub](https://github.com/JackCollett)&nbsp;&nbsp;&nbsp;&nbsp;[<img src="./icons/linkedin.svg" title="LinkedIn" height="24" align="top">&nbsp;LinkedIn](https://www.linkedin.com/in/jackcollett/)&nbsp;&nbsp;&nbsp;&nbsp;[<img src="./icons/codewars-icon.svg" title="Codewars" height="24" align="top">&nbsp;Codewars](https://www.codewars.com/users/Jakc109/)
 
 <em>
-**Why did I want to be a developer?** <br>
+<b>Why did I want to be a developer? </b><br>
 I was always facinated by computers, how they work and their endless capabilities. I want to collaborate with similar minds to create innovative and exciting applications.<br><br>
-**Why me?** <br>
+<b>Why me? </b><br>
 I have a strong desire to find solutions, and I break down challenges into manageable steps, allowing me to consistently progress and grow. 
 </em>
 </div>
